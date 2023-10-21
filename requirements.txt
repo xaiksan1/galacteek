@@ -73,7 +73,7 @@ SPARQLWrapper==1.8.5
 strict-rfc3339==0.7
 tortoise-orm==0.17.6
 urnparse==0.2.0
-validators==0.20.0
+validators==0.21.0
 yarl==1.5.1
 aiogeminipfs @ https://gitlab.com/galacteek/aiogeminipfs/-/releases/0.2.1/downloads/aiogeminipfs-0.2.1-py3-none-any.whl#sha256=4bb42f2c0f2f74a0e7bc35a1df37d63763b573d8da5d900918f9829a9d782ee7
 aiopubsub @ https://gitlab.com/api/v4/projects/40071322/packages/generic/aiopubsub/3.1.0/aiopubsub-3.1.0-py3-none-any.whl#sha256=520d3ec43f470fd612320e782e4bb333cded7b7b8cc3d876cfe7b4bc79a2a19e
