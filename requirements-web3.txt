@@ -1,1 +1,2 @@
 web3==5.13.1
+eth-abi>=4.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
