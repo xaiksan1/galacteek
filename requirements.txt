@@ -52,7 +52,7 @@ ptpython==3.0.20
 pydotplus==2.0.2
 py-multicodec==0.2.1
 py-multihash==2.0.1
-pycryptodomex==3.9.8
+pycryptodomex==3.19.1
 pygments==2.13.0
 pyld==2.0.3
 PyNaCl==1.5.0
