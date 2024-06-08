@@ -81,3 +81,4 @@ iptt @ https://galacteek.mypinata.cloud/ipfs/bafybeiarxbqhtaw5qoob4veqwvd73v6cq5
 rdflib @ https://gitlab.com/galacteek/rdflib/-/releases/5.0.0/downloads/rdflib-5.0.0-py3-none-any.whl#sha256=ddcae9e193d999d810bafaeea9fcf55ec7024486fec51053e9c8eef63e4d179f
 rdflib-jsonld @ https://gitlab.com/galacteek/rdflib-jsonld/-/releases/0.6.0-dev/downloads/rdflib_jsonld-0.6.0.dev0-py2.py3-none-any.whl#sha256=d2e3ba9fd3372ecc9321ca5a66da58b84d21205c67554bbb75154f033f12b8d0
 SparQL-Burger @ https://gitlab.com/galacteek/SPARQL-Burger/-/releases/1.0.2/downloads/SparQL_Burger-1.0.2-py3-none-any.whl#sha256=3e6932ee1f69d434e4691ac99797d34dce148b720f0aa0cf2f3e84b5fae729bd
+cryptography>=42.0.8 # not directly required, pinned by Snyk to avoid a vulnerability
